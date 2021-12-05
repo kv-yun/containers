@@ -27,14 +27,14 @@ Systeme d'iterator
 Autres:
 
 ```
-Recreation de la classe reverse_iterator<Iterator>
-Recreation des structures iterators_traits
-Reacration des structures is_integral<>
-Recreation des structures enable_if<> 
+Recreation de la classe reverse_iterator<class Iterator>
+Recreation de std::iterators_traits<>
+Reacration de std::is_integral<>
+Recreation de std::enable_if<>
 ```
 
 # execution
 
-Compilation: Make
+Compilation: `Make`
 
-Execution: ./ft_containers std/ft vector/map/stack
+Execution: `./ft_containers std/ft vector/map/stack`
