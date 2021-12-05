@@ -1,6 +1,6 @@
 # containers
 
-Projet en C++98 ayant pour but de reproduire des deux conteneurs STL et un adaptateur de conteneur
+Projet en C++98 ayant pour but de reproduire deux conteneurs STL et un adaptateur de conteneur
 
 Vector:
 
